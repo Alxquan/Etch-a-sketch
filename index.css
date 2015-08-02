@@ -1,0 +1,24 @@
+body {
+
+}
+
+
+div {
+	clear:left;
+}
+
+div.innersquare {
+	width: 20px;
+	height: 20px;
+	outline: 1px solid;
+	float: left;
+	clear:none;
+}
+
+.dots {
+	background-color: black;
+}
+
+.path {
+	background-color: green;
+}
